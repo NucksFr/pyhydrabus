@@ -1,0 +1,4 @@
+*.pyc
+pyHydrabus.egg-info/*
+build/*
+dist/*
